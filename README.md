@@ -24,7 +24,7 @@ Having current data ensures your systems remain compliant and can properly route
 
 ## Overview
 
-This tool uses **Playwright** to automate the download of three critical datasets from the BEREC website:
+This tool uses **[Playwright](https://playwright.dev/)** to automate the download of three critical datasets from the BEREC website:
 
 - **VAS Numbering Ranges**: Value-added service numbering ranges across European countries
 - **Emergency Means**: Emergency communication contact information and protocols
