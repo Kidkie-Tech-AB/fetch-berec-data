@@ -2,13 +2,33 @@
 
 A Playwright script to download JSON data from BEREC (Body of European Regulators for Electronic Communications).
 
+## What is BEREC?
+
+BEREC is the Body of European Regulators for Electronic Communications, responsible for coordinating telecommunications regulations across Europe. This data is essential for:
+
+- **Telecommunications Providers**: Ensuring compliance with European numbering standards
+- **Emergency Services**: Maintaining accurate emergency communication protocols across borders
+- **Public Safety Systems**: Implementing standardized public warning systems
+- **Regulatory Compliance**: Staying up-to-date with European telecommunications regulations
+
+## Why Keep Data Current?
+
+BEREC data is regularly updated to reflect:
+
+- New member states joining the regulatory framework (e.g., Ukraine joining on December 9th, 2024)
+- Changes in numbering ranges and value-added service allocations
+- Updates to emergency service protocols and contact information
+- Public Warning System (PWS) implementation changes across countries
+
+Having current data ensures your systems remain compliant and can properly route communications across European telecommunications networks.
+
 ## Overview
 
-This tool downloads three JSON datasets from the BEREC website:
+This tool downloads three critical datasets from the BEREC website:
 
 - **VAS Numbering Ranges**: Value-added service numbering ranges across European countries
-- **Emergency Means**: Emergency communication data
-- **PWS Data**: Public Warning System data
+- **Emergency Means**: Emergency communication contact information and protocols
+- **PWS Data**: Public Warning System implementation details and requirements
 
 ## Installation
 
