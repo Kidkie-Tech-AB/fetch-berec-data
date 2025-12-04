@@ -36,16 +36,44 @@ Playwright provides reliable browser automation for fetching data that may requi
 
 ## Installation
 
+Using pnpm:
+
 ```bash
 pnpm install
+```
+
+Using npm:
+
+```bash
+npm install
+```
+
+Using yarn:
+
+```bash
+yarn install
 ```
 
 ## Usage
 
 Run the download script:
 
+Using pnpm:
+
 ```bash
 pnpm download
+```
+
+Using npm:
+
+```bash
+npm run download
+```
+
+Using yarn:
+
+```bash
+yarn download
 ```
 
 The script will:
